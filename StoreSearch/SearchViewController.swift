@@ -32,6 +32,7 @@ class SearchViewController: UIViewController {
         forCellReuseIdentifier:
       TableView.CellIdentifiers.nothingFoundCell)
       
+      searchBar.becomeFirstResponder()
       
   }
     
