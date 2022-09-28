@@ -4,7 +4,6 @@
 //
 //  Created by Mark Bowen on 9/27/22.
 //
-
 class ResultArray: Codable {
   var resultCount = 0
   var results = [SearchResult]()

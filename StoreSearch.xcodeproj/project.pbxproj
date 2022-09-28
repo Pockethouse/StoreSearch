@@ -18,6 +18,7 @@
 		E9D72FFC28E3CD2A00111EA4 /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */; };
 		E9D72FFE28E4958000111EA4 /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */; };
 		E9D7300028E4CF9C00111EA4 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */; };
+		E9D7300228E4DEAD00111EA4 /* UIImageView+DownloadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D7300128E4DEAD00111EA4 /* UIImageView+DownloadImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 		E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
 		E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
+		E9D7300128E4DEAD00111EA4 /* UIImageView+DownloadImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+DownloadImage.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */,
 				E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */,
 				E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */,
+				E9D7300128E4DEAD00111EA4 /* UIImageView+DownloadImage.swift */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				E9D72FE828E37EBF00111EA4 /* SearchViewController.swift in Sources */,
 				E9D72FE428E37EBF00111EA4 /* AppDelegate.swift in Sources */,
+				E9D7300228E4DEAD00111EA4 /* UIImageView+DownloadImage.swift in Sources */,
 				E9D72FF828E39CAD00111EA4 /* SearchResult.swift in Sources */,
 				E9D72FE628E37EBF00111EA4 /* SceneDelegate.swift in Sources */,
 				E9D72FFC28E3CD2A00111EA4 /* SearchResultCell.swift in Sources */,
