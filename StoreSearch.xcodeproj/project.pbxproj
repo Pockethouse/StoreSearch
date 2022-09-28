@@ -17,6 +17,7 @@
 		E9D72FFA28E3BB1400111EA4 /* SearchResultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D72FF928E3BB1400111EA4 /* SearchResultCell.xib */; };
 		E9D72FFC28E3CD2A00111EA4 /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */; };
 		E9D72FFE28E4958000111EA4 /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */; };
+		E9D7300028E4CF9C00111EA4 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E9D72FF928E3BB1400111EA4 /* SearchResultCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchResultCell.xib; sourceTree = "<group>"; };
 		E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 		E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
+		E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				E9D72FF928E3BB1400111EA4 /* SearchResultCell.xib */,
 				E9D72FFB28E3CD2A00111EA4 /* SearchResultCell.swift */,
 				E9D72FFD28E4958000111EA4 /* NothingFoundCell.xib */,
+				E9D72FFF28E4CF9C00111EA4 /* LoadingCell.xib */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				E9D72FF028E37EC000111EA4 /* LaunchScreen.storyboard in Resources */,
 				E9D72FED28E37EC000111EA4 /* Assets.xcassets in Resources */,
+				E9D7300028E4CF9C00111EA4 /* LoadingCell.xib in Resources */,
 				E9D72FFA28E3BB1400111EA4 /* SearchResultCell.xib in Resources */,
 				E9D72FFE28E4958000111EA4 /* NothingFoundCell.xib in Resources */,
 				E9D72FEB28E37EBF00111EA4 /* Main.storyboard in Resources */,
